@@ -3,7 +3,7 @@
 ## Some of my Github Stats:
 <p align=left> <img src=https://komarev.com/ghpvc/?username=USERNAME alt=USERNAME /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=sanekiskita&show_icons=true&include_all_commits=true&theme=onedark)](https://github.com/USERNAME/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Rodion&show_icons=true&include_all_commits=true&theme=onedark)](https://github.com/USERNAME/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=onedark&card_width=445)](https://github.com/USERNAME/github-readme-stats)
 
@@ -24,9 +24,9 @@
 <a href="https://www.codewars.com/users/USERNAME" ><img src="https://www.codewars.com/users/USERNAME/badges/large"></img></a>
 
 ## Were to find me:
-[![telegram](https://img.shields.io/badge/-USERNAME4?style=flat&logo=telegram&logoColor=white&link=https://t.me/USERNAME)](https://t.me/USERNAME)
-[![Gmail Badge](https://img.shields.io/badge/-USERNAME@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:as1405503@gmail.com)](mailto:USERNAME@gmail.com) 
-[![Github Badge](https://img.shields.io/badge/-USERNAME-grey?style=flat&logo=github&logoColor=white&link=https://github.com/USERNAME/)](https://www.github.com/USERNAME/) 
+[![telegram](https://img.shields.io/badge/-USERNAME4?style=flat&logo=telegram&logoColor=white&link=https://t.me/RodionAs)](https://t.me/RodionAs)
+[![Gmail Badge](https://img.shields.io/badge/-USERNAME@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Asatov.Rodion@gmail.com)](mailto:Asatov.Rodion@gmail.com) 
+[![Github Badge](https://img.shields.io/badge/-USERNAME-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Rodion-progs/)](https://www.github.com/Rodion-progs/) 
 <a href="https://www.hackerrank.com/as1405503">![](https://img.shields.io/badge/-hackerRank-2EC866?logo=hackerRank&logoColor=white&style=flat)</a>
 
 
