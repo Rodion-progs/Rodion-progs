@@ -3,9 +3,9 @@
 ## Some of my Github Stats:
 <p align=left> <img src=https://komarev.com/ghpvc/?username=USERNAME alt=USERNAME /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Rodion&show_icons=true&include_all_commits=true&theme=onedark)](https://github.com/USERNAME/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Rodion-progs&show_icons=true&include_all_commits=true&theme=onedark)](https://github.com/USERNAME/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=onedark&card_width=445)](https://github.com/USERNAME/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodion-progs&layout=compact&theme=onedark&card_width=445)](https://github.com/USERNAME/github-readme-stats)
 
 
 ## Techologies:
