@@ -1,7 +1,7 @@
 ## :alien: Hey, nice to see you
 
 ## Some of my Github Stats:
-<p align=left> <img src=https://komarev.com/ghpvc/?username=USERNAME alt=USERNAME /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Rodion-progs alt=Rodion-progs /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Rodion-progs&show_icons=true&include_all_commits=true&theme=onedark)](https://github.com/Rodion-progs/github-readme-stats)
 
