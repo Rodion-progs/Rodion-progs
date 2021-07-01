@@ -3,9 +3,9 @@
 ## Some of my Github Stats:
 <p align=left> <img src=https://komarev.com/ghpvc/?username=USERNAME alt=USERNAME /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Rodion-progs&show_icons=true&include_all_commits=true&theme=onedark)](https://github.com/USERNAME/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Rodion-progs&show_icons=true&include_all_commits=true&theme=onedark)](https://github.com/Rodion-progs/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodion-progs&layout=compact&theme=onedark&card_width=445)](https://github.com/USERNAME/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodion-progs&layout=compact&theme=onedark&card_width=445)](https://github.com/Rodion-progs/github-readme-stats)
 
 
 ## Techologies:
@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat)
 
 ## Codewars:
-<a href="https://www.codewars.com/users/USERNAME" ><img src="https://www.codewars.com/users/USERNAME/badges/large"></img></a>
+<a href="https://www.codewars.com/users/Rodion-progs" ><img src="https://www.codewars.com/users/Rodion-progs/badges/large"></img></a>
 
 ## Were to find me:
 [![telegram](https://img.shields.io/badge/-USERNAME4?style=flat&logo=telegram&logoColor=white&link=https://t.me/RodionAs)](https://t.me/RodionAs)
